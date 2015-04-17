@@ -1,0 +1,4 @@
+include *.md setup.py setup.cfg
+recursive-include *.py
+global-exclude *.pyc
+global-exclude *.pyo
